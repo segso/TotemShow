@@ -36,7 +36,7 @@ You can customize the broadcast message by editing the `segtotems.message` key i
 }
 ```
 
-Modify this key in your own `en_us.json` (or equivalent) to change how the message appears in-game.
+Modify this key in your own `en_us.json` (or equivalent) to change how the message appears in-game, this can be done inside a resource pack for better user experience.
 
 ## 📺 Content Creators
 
